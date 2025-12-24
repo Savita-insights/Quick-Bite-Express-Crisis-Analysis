@@ -82,6 +82,7 @@ Acts as a navigation hub and project summary.
 **Why it matters:**
 Ensures any stakeholder understands *what the dashboard is about* before diving into insights.
 
+![Homepage](Screenshots/Home.png)
 ---
 
 ### 📊 Executive Snapshot
@@ -102,6 +103,7 @@ High-level business summary for leadership.
 * Context-aware DAX measures
 * Executive-level storytelling
 
+![Executive Snapshot](Screenshots/Exec.png)
 ---
 
 ### 📈 Orders Trend – Phases
@@ -118,6 +120,7 @@ Analyze how order volume changed over time.
 **Why phase logic was used:**
 Mixing both periods would misrepresent averages and decline percentages.
 
+![Order Trend](Screenshots/Order.png)
 ---
 
 ### 🌆 Cities Impact
@@ -136,7 +139,8 @@ Identify cities most affected by the crisis.
 * Ranking & Top-N analysis
 * Percentage-based decline metrics
 * Filter interaction handling
-
+  
+![Cities Impact](Screenshots/Cities.png)
 ---
 
 ### 🍽️ Restaurants – Volume & Churn
@@ -159,6 +163,7 @@ Understand restaurant-side impact.
 **Key Learning:**
 Percentage metrics can appear extreme at low volumes and must be interpreted carefully.
 
+![Restaurant Volume & Churn](Screenshots/Restaurant.png)
 ---
 
 ### 👥 Customer Behavior & Loyalty Analysis
@@ -176,6 +181,7 @@ Measure how customer engagement changed.
 **Important Note:**
 Metrics like AOV, churn %, and averages are **non-additive**, so totals reflect weighted calculations, not simple sums.
 
+![Customer Loyalty](Screenshots/Cust.png)
 ---
 
 ### 🚚 Delivery & Sentiment Insights
@@ -195,6 +201,7 @@ Analyze operational experience and feedback.
 * Negative orders = poor ratings or complaints
 * Non-negative = neutral or positive experience
 
+![Delivery & Sentiment](Screenshots/Delivery.png)
 ---
 
 ## 🧩 DAX & Modeling Highlights
@@ -235,6 +242,10 @@ This project demonstrates my ability to:
 * Focused on practical, interview-ready analytics
 
 ---
+🚀 **Live Dashboard (Power BI):**  
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjNjYjg4MjYtZmQ4YS00MWQ2LWE2OTctZmFkNzc2ZDQ4ODZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+----
 
 ## 🔗 Author
 
