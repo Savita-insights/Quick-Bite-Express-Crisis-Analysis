@@ -243,7 +243,7 @@ This project demonstrates my ability to:
 
 ---
 🚀 **Live Dashboard (Power BI):**  
-👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjNjYjg4MjYtZmQ4YS00MWQ2LWE2OTctZmFkNzc2ZDQ4ODZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAwYjk5YmQtODBkMi00MmI0LTg3ODEtNzljN2NkZTA2NjE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ----
 
